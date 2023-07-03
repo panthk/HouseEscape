@@ -1,8 +1,3 @@
-/* ICS3U1 CPT NAME: HOUSE ESCAPE
- * NAMES: PANTH KIKLAWALA & MIKEE FUTALAN
- * TEACHER: MR. CONWAY
- * DATE: JUNE 9, 2023
- * 
  * PROGRAM DESCRIPTION:
  * This is a puzzle-like escape room. When the program starts, the player will be presented with a title screen with background music playing. After pressing space, instructions will be shown to the player.
  * The player will need to use the WASD keys to move around the room. The player will then need to use space and escape to enter and exit tasks. The player will need to use their mouse and keyboard in various ways in the tasks to complete them.
